@@ -1,0 +1,4 @@
+latest
+.phpunit.result.cache
+.idea/*
+vendor
